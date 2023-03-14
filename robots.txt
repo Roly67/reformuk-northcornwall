@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reformuk-northcornwall.com.com/sitemap.xml
