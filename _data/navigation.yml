@@ -1,7 +1,37 @@
 main:
-- title: Contact Us
-  url: /contact
-- title: About Us
-  url: /about
+  - title: Why Vote Reform?
+    url: /manifesto
+  - title: Blog
+    url: /blog
+  - title: Contact
+    url: /contact
+  - title: About
+    url: /about
 
-sidebar1:
+manifesto:
+  - title: Manifesto (National)
+    children:
+      - title: Reform UK
+        url: /manifesto/national/reform-uk
+    children:
+      - title: Coastline Sewarage
+        url: /manifesto/north-cornwall/coast-sewerage
+      - title: Parking Charges
+        url: /manifesto/north-cornwall/parking
+      - title: Farming
+        url: /manifesto/north-cornwall/farming
+      - title: Fishing
+        url: /manifesto/north-cornwall/fishing
+      - title: Tourism
+        url: /manifesto/north-cornwall/tourism
+      - title: Brexit
+        url: /manifesto/north-cornwall/brexit
+      - title: World Economic Forum (WEF)
+        url: /manifesto/north-cornwall/wef
+      - title: Green Agenda 2030
+        description: Net zero, 15 minute cities, ULEZ etc.
+        url: /manifesto/north-cornwall/agenda-2030
+      - title: Digital IDs
+        url: /manifesto/north-cornwall/digital-ids
+      - title: Digital Currency (CDBC)
+        url: /manifesto/north-cornwall/cdbc
