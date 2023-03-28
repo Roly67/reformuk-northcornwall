@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use reformuk-northcornwall.com
 keywords: privacy policy,privacy
-permalink: /privacy-policy.html
+permalink: /privacy-policy
 layout: splash
 ---
 # Privacy Policy
