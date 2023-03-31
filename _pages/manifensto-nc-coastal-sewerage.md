@@ -7,7 +7,7 @@ layout: single
 sidebar:
   nav: "manifesto"
 ---
-## Supporting Clean Beaches in North Cornwall.
+## Supporting Clean Beaches in North Cornwall
 
 North Cornwall is home to some of the worlds most beautiful beaches.
 Millions of people annually make the effort to visit our county to enjoy the beaches and ocean in our area.
@@ -68,8 +68,9 @@ The rules as defined by The Urban Waste Water Treatment Regulations only allow s
 However, government has [admitted][2] that sewerage overflows are being used substantially beyond their intended purposes and it these spills that are described as
 "Dry Spills".
 
-According to [SaS][1], [Porthtowan][3] beach has a bathing water classification of 'Excellent' but experienced at least one dry spill event in 2022.
+According to [SaS][1], [Porthtowan][4] beach has a bathing water classification of 'Excellent' but experienced at least one dry spill event in 2022.
 
 [1]: https://www.sas.org.uk/
 [2]: https://www.sas.org.uk/waterquality2022/sources/#src29
 [3]: https://www.sas.org.uk/waterquality2022/dry-spills/dumping-sewage-when-its-dry/
+[4]: http://porthtowanbeach.com/
