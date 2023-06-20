@@ -1,8 +1,8 @@
 ---
 title: Agenda 2030, Climate Change and its impacts for North Cornwall
 description: Position statement from Reform UK (North Cornwall) on Agenda 2030 and Climate Change
-keywords: wef,agenda2030
-permalink: /manifesto/north-cornwall/agenda-2030
+keywords: wef,agenda2030,climate change
+permalink: /manifesto/north-cornwall/climate-change
 layout: single
 sidebar:
   nav: "manifesto"
@@ -41,6 +41,11 @@ plant life via photosynthesis, and without plants humans could not exist!
 close to 30 year average levels.
 * Overall sea ice cover in Antarctica has not declined in recent decades.
 * Polar bear numbers in the Arctic are increasing, not decreasing.
+
+## Ultra Low Emission Zones (ULEZ)
+Reform UK does not support ULEZ. As your elected parliamentary representative, 
+I will strongly oppose ULEZ both within North Cornwall and nationally.
+
 
 [1]: https://www.gov.uk/government/publications/agenda-2030-delivering-the-global-goals
 [2]: https://sdgs.un.org/2030agenda
