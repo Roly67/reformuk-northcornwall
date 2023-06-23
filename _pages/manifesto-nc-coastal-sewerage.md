@@ -13,6 +13,8 @@ North Cornwall is home to some of the worlds most beautiful beaches.
 Millions of people annually make the effort to visit our county to enjoy the beaches and ocean in our area.
 Visitors to our county bring in millions of pounds and support our tourism industry.
 
+![no to sewerage][sewerage]
+
 Sadly, we have an ongoing problem in the form of unplanned sewerage discharges into the sea in North Cornwall. This problem has been around for many years
 and threatens not only our beautiful beaches but also the health of local residents and our tourist visitors.
 It has not been enough of a priority for local politicians and authorities to get much done to make a positive impact.
@@ -74,3 +76,4 @@ According to [SaS][1], [Porthtowan][4] beach has a bathing water classification 
 [2]: https://www.sas.org.uk/waterquality2022/sources/#src29
 [3]: https://www.sas.org.uk/waterquality2022/dry-spills/dumping-sewage-when-its-dry/
 [4]: http://porthtowanbeach.com/
+[sewerage]: /assets/images/manifesto/sewerage-800x689.jpg "Beatuful Crooklets Beach - without sewerage"

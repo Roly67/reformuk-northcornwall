@@ -12,6 +12,8 @@ It is important to be able to debate and discuss issues such as climate change,
 rather than face the smears and cancellation threats that spread throughout
 public life.
 
+![climate change][climate change]
+
 Reform UK fully accepts that climate change is real, after all it has happened
 for millions of years based on multiple factors completely outside human
 control or influence. Warming has of course taken place over the last
@@ -49,3 +51,4 @@ I will strongly oppose ULEZ both within North Cornwall and nationally.
 
 [1]: https://www.gov.uk/government/publications/agenda-2030-delivering-the-global-goals
 [2]: https://sdgs.un.org/2030agenda
+[climate change]: /assets/images/manifesto/climate-change-800x300.jpg "Climate change in Cornwall?"

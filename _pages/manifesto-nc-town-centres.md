@@ -12,6 +12,8 @@ North Cornwall has a lot to offer in terms of beautiful landscapes and beaches. 
 also has some of the most attractive and diverse town centres with a wonderful selection of shops
 and attractions ranging from the staple national brands through to artisan and creative boutique family run businesses.
 
+![town center][town]
+
 Sadly, in town centres across Cornwall, it is true than many businesses are struggling to stay afloat. This is due
 to many issues such as the rising cost of living and increasing costs for rent, energy, staff and so forth.
 
@@ -54,4 +56,4 @@ promote growth and prosperity within our town centres.
 the short and medium term plans for sustainability and growth of foot fall to our town centres.
 5. My ongoing support in any way needed to ensure that The Plan maintains momentum over the coming years to secure our town centres for future generations to enjoy.
 
-
+[town]: /assets/images/manifesto/town1-800x411.jpg "Bude Town Center"

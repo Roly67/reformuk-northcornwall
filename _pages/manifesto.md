@@ -2,7 +2,7 @@
 title: Reform UK North Cornwall Manifesto
 description: Reform UK national and regional Manifesto and position statements.
 keywords: manifesto
-permalink: /manifesto/national/reform-uk
+permalink: /manifesto/north-cornwall
 layout: single
 sidebar:
   nav: "manifesto"

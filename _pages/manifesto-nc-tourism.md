@@ -11,6 +11,8 @@ sidebar:
 Tourism is the biggest economic sector in Cornwall. It is a vital source of
 employment and income for the region.
 
+![tourism][tourism]
+
 Interesting facts about tourism in Cornwall:
 
 * It accounts for at least one in five jobs in Cornwall.
@@ -58,3 +60,5 @@ education.
 
 [1]: https://www.local.gov.uk/case-studies/cornwall-supplying-skills-local-visitor-economy
 [2]: https://www.economicsobservatory.com/how-does-the-cornish-economy-compare-with-the-rest-of-the-uk
+
+[tourism]: /assets/images/manifesto/tourism-800x455.jpg "Port Gavergne"

@@ -1,6 +1,6 @@
 main:
   - title: Why Vote Reform?
-    url: /manifesto
+    url: /manifesto/north-cornwall
   - title: Blog
     url: /blog
   - title: Contact
@@ -14,6 +14,7 @@ manifesto:
       - title: Reform UK
         url: /manifesto/national/reform-uk
   - title: Position Statements (North Cornwall)
+    url: /manifesto/north-cornwall/
     children:
       - title: Coastline Sewarage
         url: /manifesto/north-cornwall/coast-sewerage
