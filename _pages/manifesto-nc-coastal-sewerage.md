@@ -2,18 +2,15 @@
 title: North Cornwall Coastal Sewerage
 description: Position statement from Reform UK (North Cornwall) on coastal sewerage.
 keywords: sewerage
-permalink: /manifesto/north-cornwall/coast-sewerage
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/coast-sewerage
 ---
-## Supporting Clean Beaches in North Cornwall
+# Supporting Clean Beaches in North Cornwall
 
 North Cornwall is home to some of the worlds most beautiful beaches.
 Millions of people annually make the effort to visit our county to enjoy the beaches and ocean in our area.
 Visitors to our county bring in millions of pounds and support our tourism industry.
 
-![no to sewerage][sewerage]
+![no to sewerage][sewerage]{: .align-center}
 
 Sadly, we have an ongoing problem in the form of unplanned sewerage discharges into the sea in North Cornwall. This problem has been around for many years
 and threatens not only our beautiful beaches but also the health of local residents and our tourist visitors.
@@ -41,8 +38,8 @@ reasonable, quantifiable and measurable results for improving sewerage issues to
 the investment aims and opportunities as well as a declaration of environmental responsibility. We can, with
 the right messaging, position North Cornwall as being one of the cleanest areas in the UK to visit for tourism.
 
-At the end of the 100 days, I would have an initial draft of a workable plan in place and report back to consituents.
-At any time in the first 100 days and for a period afterwards, I would welcome consituents input to the draft plan.
+At the end of the 100 days, I would have an initial draft of a workable plan in place and report back to constituents.
+At any time in the first 100 days and for a period afterwards, I would welcome constituents input to the draft plan.
 
 ## Sewerage Discharge
 

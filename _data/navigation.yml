@@ -1,39 +1,35 @@
 main:
-  - title: Why Vote Reform?
-    url: /manifesto/north-cornwall
+  - title: Policies
+    url: /policies/
   - title: Blog
     url: /blog
   - title: Contact
     url: /contact
-  - title: About
-    url: /about
 
-manifesto:
-  - title: Manifesto (National)
-    children:
-      - title: Reform UK
-        url: /manifesto/national/reform-uk
+policies:
+  - title: Reform UK National Policies
+    url: /policies/national/
   - title: Position Statements (North Cornwall)
-    url: /manifesto/north-cornwall/
+    url: /north-cornwall/
     children:
       - title: Coastline Sewarage
-        url: /manifesto/north-cornwall/coast-sewerage
+        url: /policies/north-cornwall/coast-sewerage
       - title: Town Centres
-        url: /manifesto/north-cornwall/town-centres
+        url: /policies/north-cornwall/town-centres
       - title: Farming
-        url: /manifesto/north-cornwall/farming
+        url: /policies/north-cornwall/farming
       - title: Fishing
-        url: /manifesto/north-cornwall/fishing
+        url: /policies/north-cornwall/fishing
       - title: Tourism
-        url: /manifesto/north-cornwall/tourism
+        url: /policies/north-cornwall/tourism
       - title: Brexit
-        url: /manifesto/north-cornwall/brexit
+        url: /policies/north-cornwall/brexit
       - title: World Economic Forum (WEF)
-        url: /manifesto/north-cornwall/wef
+        url: /policies/north-cornwall/wef
       - title: Climate Change
         description: Net zero, 15 minute cities, ULEZ etc.
-        url: /manifesto/north-cornwall/climate-change
+        url: /policies/north-cornwall/climate-change
       - title: Digital IDs
-        url: /manifesto/north-cornwall/digital-ids
+        url: /policies/north-cornwall/digital-ids
       - title: Digital Currency (CDBC)
-        url: /manifesto/north-cornwall/cdbc
+        url: /policies/north-cornwall/cdbc

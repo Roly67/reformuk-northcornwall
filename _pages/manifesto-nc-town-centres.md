@@ -2,17 +2,14 @@
 title: Securing North Cornwall Centers
 description: Position statement from Reform UK (North Cornwall) on town centres in Cornwall.
 keywords: parking, town centers
-permalink: /manifesto/north-cornwall/town-centres
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/town-centres
 ---
-## Supporting Cornwall Towns
+# Supporting Cornwall Towns
 North Cornwall has a lot to offer in terms of beautiful landscapes and beaches. It
 also has some of the most attractive and diverse town centres with a wonderful selection of shops
 and attractions ranging from the staple national brands through to artisan and creative boutique family run businesses.
 
-![town center][town]
+![town centre][town]{: .align-center}
 
 Sadly, in town centres across Cornwall, it is true than many businesses are struggling to stay afloat. This is due
 to many issues such as the rising cost of living and increasing costs for rent, energy, staff and so forth.

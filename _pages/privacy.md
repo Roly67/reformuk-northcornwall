@@ -5,9 +5,7 @@ keywords: privacy policy,privacy
 permalink: /privacy-policy
 layout: splash
 ---
-# Privacy Policy
-
-## Reformuk(northcornwall) Privacy Policy
+## Reform UK(North Cornwall Consituency) Privacy Policy
 reformuk-northcornwall.com has a commitment to your privacy and the protection of your information. Personal information is information that would identify you, or from which you can be identified. It is important to us to protect your personal information. We don’t give it away or sell it and we have systems in place to protect it.
 
 ## Collection
@@ -37,7 +35,7 @@ We will never share, sell, or rent individual personal information with anyone w
 Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your details. If you wish to do this, simply follow the instructions at the end of any email.
 
 ## Update
-You can update your details via our subscription facility or by contacting us.
+You can update your details by [contacting us](mailto:northcornwall@reformuk.com?subject=contact%20details%20update%20request).
 
 ## Feedback or Complaints
 Let us know if you have a problem or feedback by contacting us. We will take action to fix any problems, within reason. We will update this policy from time to time to meet our legal obligations.

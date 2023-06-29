@@ -2,16 +2,12 @@
 title: Fishing in North Cornwall
 description: Position statement from Reform UK (North Cornwall) on the fishing industry in Cornwall.
 keywords: fishing
-permalink: /manifesto/north-cornwall/fishing
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/fishing
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/09-zZNdK4Wg" title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+# Fishing Industry in North Cornwall
+
+{% include video id="09-zZNdK4Wg" provider="youtube" %}
 
 ## Top 5 Reasons Why You Should Care About UK Fishing Industry
 

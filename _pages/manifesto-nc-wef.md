@@ -2,12 +2,9 @@
 title: World Economic Forum Impact in North Cornwall
 description: Position statement from Reform UK (North Cornwall) on the World Economic Forum (WEF)
 keywords: WEF
-permalink: /manifesto/north-cornwall/wef
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/wef
 ---
-## Say No to The World Economic Forum
+# Say No to The World Economic Forum
 [The World Economic Forum (WEF)][1] is an unelected body of wealthy and
 influential individuals that believe they know what is best for the rest of
 humanity.
@@ -33,10 +30,10 @@ that include:
 * Technocracy
 * Tyranny
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QOrS6buynAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include video id="QOrS6buynAk" provider="youtube" %}
 
 ## Klaus Schwab
-![Klaus_Schwab][ks]
+![Klaus_Schwab][ks]{: .align-center}
 
 There is much written about [Klaus Schwab][2], the founder of WEF. There is 
 sufficient cause for concern that Mr. Schwab has been directly, and via his WEF,

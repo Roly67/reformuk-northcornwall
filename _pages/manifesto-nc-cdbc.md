@@ -2,12 +2,9 @@
 title: Central Bank Digital Currencies (CDBC)
 description: Position statement from Reform UK (North Cornwall) on CDBC.
 keywords: cdbc, digital currency
-permalink: /manifesto/north-cornwall/cdbc
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/cdbc
 ---
-## Central Bank Digital Currency (CDBC)
+# Central Bank Digital Currency (CDBC)
 You may be familiar with or heard of digital currency. Bitcoin is an example of 
 a digital currency that has been around for many years.
 
@@ -18,7 +15,7 @@ Unlike Bitcoin which uses a de-centralised model (i.e. no one controls Bitcoin)
 , CDBCs are centralised in nature. Centralised means that it is controlled by
 a central authority (probably the Bank of England).
 
-### Why Centralised Currency Can Be Bad For You
+## Why Centralised Currency Can Be Bad For You
 With a CDBC it will be possible for Governments to easily mess around with 
 your money. For example, a CDBC will allow UK GOV to easily:
 
@@ -34,14 +31,14 @@ about it or one of its controversial policies, it is possible to easily revoke
 your CDBCs thus leaving you without any ability to pay bills for basic 
 necessities such as rent, food, heat, clothing etc.
 
-### UK Gov Currently Exploring CDBCs
+## UK Gov Currently Exploring CDBCs
 
 References:
 1. [Consultation][1]
 2. [Bank of England][2] 
 
 
-### My View on CDBCs
+## My View on CDBCs
 I do not believe that CDBC is a good thing for our democracy or our individual
 freedom to choose how we transact for goods and services and with whom.
 

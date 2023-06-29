@@ -1,15 +1,12 @@
 ---
 title: Brexit in North Cornwall
-description: Position statement from Reform UK (North Cornwall) on the Brexit in Cornwall.
+description: Position statement from Reform UK (North Cornwall) on Brexit in Cornwall.
 keywords: brexit
-permalink: /manifesto/north-cornwall/brexit
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/brexit
 ---
-## Make The Most of Brexit for North Cornwall
+# Make The Most of Brexit for North Cornwall
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uxOHHehvmJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include video id="uxOHHehvmJ0" provider="youtube" %}
 
 Many people that voted for Brexit in 2016 believe that Brexit has not been
 delivered.
@@ -39,6 +36,3 @@ decent people of the UK who simply wish to be left alone, unburdened from
 rules and laws made in Brussels that have no value to their lives of livelihoods
 and indeed end up costing us all more in taxation and wasting needless time in 
 compliance issues that serve no one except the EU.
-
-
-

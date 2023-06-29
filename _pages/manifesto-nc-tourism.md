@@ -2,16 +2,13 @@
 title: Tourism in North Cornwall
 description: Position statement from Reform UK (North Cornwall) on the tourism industry in Cornwall.
 keywords: tourism
-permalink: /manifesto/north-cornwall/tourism
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/tourism
 ---
-## Supporting Cornish Tourism
+# Supporting Cornish Tourism
 Tourism is the biggest economic sector in Cornwall. It is a vital source of
 employment and income for the region.
 
-![tourism][tourism]
+![tourism][tourism]{: .align-center}
 
 Interesting facts about tourism in Cornwall:
 
@@ -24,7 +21,7 @@ However, Cornwall can do better and make more of its tourism industry. To help
 our County to not only survive but to also thrive, there are some challenges
 that we need to recognise:
 
-### Top 5 Challenges for Cornwall Tourism in 2023
+## Top 5 Challenges for Cornwall Tourism in 2023
 
 1. Reducing pool of skilled and unskilled workers makes recruitment difficult.
 2. Increasing number of 'hard to fill' posts, particularly in catering.
@@ -49,7 +46,7 @@ unhelpful to most businesses.
 * Make sure that any existing support (e.g. access to possible grants and loans
 ) is better publicised to those who will benefit from access to support (i.e. 
 employers and workers).
-* See what can be done from national government to prioritise alocation of
+* See what can be done from national government to prioritise allocation of
 support funding to Cornwall for better transport, child care and further
 education.
 

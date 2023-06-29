@@ -1,0 +1,16 @@
+#/_data/authors.yml
+
+Rowland O'Connor:
+  name: "Rowland O'Connor"
+  bio: "I am Rowland O'Connor, Reform UK Spokesperson for the North Cornwall constituency. All opinions and views expressed are my own. For official Reform Party policy please see [reformparty.uk](https://www.reformparty.uk)"
+  avatar: "/assets/images/ro-bio-photo-1-160x160.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:northcornwall@reformuk.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ReformNorth"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/profile.php?id=100093996736052"

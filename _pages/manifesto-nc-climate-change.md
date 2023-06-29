@@ -2,17 +2,14 @@
 title: Agenda 2030, Climate Change and its impacts for North Cornwall
 description: Position statement from Reform UK (North Cornwall) on Agenda 2030 and Climate Change
 keywords: wef,agenda2030,climate change
-permalink: /manifesto/north-cornwall/climate-change
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/climate-change
 ---
-## An Honest Debate on Climate Change
+# An Honest Debate on Climate Change
 It is important to be able to debate and discuss issues such as climate change,
 rather than face the smears and cancellation threats that spread throughout
 public life.
 
-![climate change][climate change]
+![climate change][climate change]{: .align-center}
 
 Reform UK fully accepts that climate change is real, after all it has happened
 for millions of years based on multiple factors completely outside human

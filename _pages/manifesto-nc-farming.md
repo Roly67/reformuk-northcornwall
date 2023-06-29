@@ -2,12 +2,9 @@
 title: Farming in North Cornwall
 description: Position statement from Reform UK (North Cornwall) on the farming industry in Cornwall.
 keywords: farming
-permalink: /manifesto/north-cornwall/farming
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/farming
 ---
-## Supporting Cornish Farming
+# Supporting Cornish Farming
 The future for British agriculture can be bright if the seize the opportunities of the UK being able to
 chart its own course on the global market. Sadly, opportunities are being squandered through official red
 tape and bureaucratic over reach.
@@ -53,7 +50,7 @@ I am aware that, in 2016, many of the North Cornwall farming community voted to 
 and independent United Kingdom would be able to free itself of regulations and the so called "level playing field" commitments
 described in Mrs May's terrible Brexit deal (draft). Due to the way that Brexit has (or perhaps not) been delivered by
 UK Government, UK farmers find themselves, in some cases, in a worse situation than before Brexit and with an increased burden
-being placed on them by the likes of [DEFRA][5]. Brexit, as it is currently implemented in Johnsons "Oven Ready" deal
+being placed on them by the likes of [DEFRA][5]. Brexit, as it is currently implemented in Johnson's "Oven Ready" deal
 with the European Union is not working for farmers or for the United Kingdom. Brexit needs to be finished and done right if we are
 to make the most of the opportunities that being an independent, sovereign nation offers us.
 

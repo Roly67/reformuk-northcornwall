@@ -2,11 +2,10 @@
 title: Reform Party UK (North Cornwall)
 description: Reform UK parth website for North Cornwall.
 keywords: reform uk
-layout: single
+layout: splash
+date: 2023-06-29T12:00:00Z"
 permalink: /
-classes: wide
 related: false
-sidebar:
-  nav: "sidebar1"
+author_profile: false
 ---
 Main page

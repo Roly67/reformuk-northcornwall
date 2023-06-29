@@ -2,13 +2,10 @@
 title: 
 description: Position statement from Reform UK (North Cornwall) on Digital IDs.
 keywords: digital id
-permalink: /manifesto/north-cornwall/digital-ids
-layout: single
-sidebar:
-  nav: "manifesto"
+permalink: /policies/north-cornwall/digital-ids
 ---
 
-## Digital Identification (ID)
+# Digital Identification (ID)
 Digital identity verification for all citizens of the United Kingdom is a 
 possiblity currently being considered by [UK Gov][1].
 
