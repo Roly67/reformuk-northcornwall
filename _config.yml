@@ -246,12 +246,25 @@ compress_html:
 # Defaults
 defaults:
   # default for pages
+  #- scope:
+  #    path: ""
+
+  # home page
   - scope:
-      path: ""
+      path: "_pages/home"
+      type: pages
+    values:
+      layout: splash
+      share: false
+      read_time: false
+      related: false
+      author_profile: false
+      header:
+        image: /assets/images/page-banners/broken-britain-1600x586.png
 
   # policies
   - scope:
-      path: "_pages"
+      path: "_pages/policies"
       type: pages
     values:
       layout: single
@@ -262,6 +275,27 @@ defaults:
       show_date: false
       read_time: true
       share: true
+      header:
+        overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
+        overlay_filter: 0.3
+
+  # boilerplate
+  - scope:
+      path: "_pages/boilerplate"
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "cog"
+      toc_sticky: true
+      author_profile: false
+      show_date: false
+      read_time: false
+      share: false
+      header:
+        overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
+        overlay_filter: 0.3
 
   # _posts
   - scope:
@@ -278,3 +312,6 @@ defaults:
       comments: false # true
       share: true
       related: true
+      header:
+        overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
+        overlay_filter: 0.3

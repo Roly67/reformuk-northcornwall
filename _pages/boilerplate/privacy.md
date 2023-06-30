@@ -3,7 +3,6 @@ title: Privacy Policy
 description: We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use reformuk-northcornwall.com
 keywords: privacy policy,privacy
 permalink: /privacy-policy
-layout: splash
 ---
 ## Reform UK(North Cornwall Consituency) Privacy Policy
 reformuk-northcornwall.com has a commitment to your privacy and the protection of your information. Personal information is information that would identify you, or from which you can be identified. It is important to us to protect your personal information. We don’t give it away or sell it and we have systems in place to protect it.
