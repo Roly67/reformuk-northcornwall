@@ -5,6 +5,9 @@ keywords: farming
 permalink: /policies/north-cornwall/farming
 ---
 # Supporting Cornish Farming
+
+{% include video id="dU0LUY0ExBM" provider="youtube" %}
+
 The future for British agriculture can be bright if the seize the opportunities of the UK being able to
 chart its own course on the global market. Sadly, opportunities are being squandered through official red
 tape and bureaucratic over reach.

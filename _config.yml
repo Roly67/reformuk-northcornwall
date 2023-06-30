@@ -248,11 +248,6 @@ defaults:
   # default for pages
   - scope:
       path: ""
-    values:
-      header:
-        overlay_image: /assets/images/hp-slider.png
-        image_description: "Reform UK - Let's make Britain Great"
-        overlay_filter: 0.60
 
   # policies
   - scope:

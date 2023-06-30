@@ -5,6 +5,8 @@ main:
     url: /blog
   - title: Contact
     url: /contact
+  - title: Join Us
+    url: https://www.reformparty.uk/join_us
 
 policies:
   - title: Reform UK National Policies
