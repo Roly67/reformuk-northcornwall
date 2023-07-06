@@ -1,6 +1,6 @@
 main:
   - title: Policies
-    url: /policies/
+    url: /policies
   #- title: Blog
   #  url: /blog
   - title: Contact
@@ -10,9 +10,9 @@ main:
 
 policies:
   - title: Reform UK National Policies
-    url: /policies/national/
+    url: /policies/national
   - title: Position Statements (North Cornwall)
-    url: /north-cornwall/
+    url: /north-cornwall
     children:
       - title: Coastline Sewarage
         url: /policies/north-cornwall/coast-sewerage
