@@ -8,7 +8,6 @@ share: false
 # About Reform UK North Cornwall
 Reform UK representation for North Cornwall constituency.
 
-Promoted by Rowland O'Connor
 
 For any queries, please [contact us](/contact).
 

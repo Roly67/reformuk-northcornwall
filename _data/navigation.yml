@@ -6,7 +6,7 @@ main:
   - title: Contact
     url: /contact
   - title: Vote
-    url: #
+    url: /vote
 
 policies:
   - title: Reform UK National Policies
