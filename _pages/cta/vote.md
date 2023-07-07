@@ -14,7 +14,7 @@ please keep in touch by any of the following:
 
 * [Email](mailto:northcornwall@reformuk.com?subject=Register%20My%20Voting%20Intention)
 * [Twitter](https://twitter.com/ReformNorth)
-* [Facebook](https://www.facebook.com/profile.php?id=100093996736052)
+* [Facebook](https://www.facebook.com/reformuk.north.cornwall)
 * [WhatsApp](https://wa.me/+447732079611)
 
 ## Helping
