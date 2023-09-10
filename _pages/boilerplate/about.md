@@ -125,7 +125,7 @@ open debate on the alter of "safety" without having the opportunity to debate,
 discuss and scrutinise issues from a wide and diverse range of experts
 and opinions.
 
-As you Potential Parliamentary Candidate for North Cornwall, I offer you a 
+As your Potential Parliamentary Candidate for North Cornwall, I offer you a 
 range of true conservative thoughts and policies that you may not see being
 offered from main stream parties (e.g. Conservative, Labour, Lib Dem).
 
