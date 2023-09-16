@@ -2,6 +2,8 @@
 title: North Cornwall Coastal Sewerage
 description: Position statement from Reform UK (North Cornwall) on coastal sewerage.
 keywords: sewerage
+header:
+  og_image: /assets/images/og_images/sewerage-1080x1920.jpg
 permalink: /policies/north-cornwall/coast-sewerage
 ---
 # Supporting Clean Beaches in North Cornwall
@@ -73,4 +75,4 @@ According to [SaS][1], [Porthtowan][4] beach has a bathing water classification 
 [2]: https://www.sas.org.uk/waterquality2022/sources/#src29
 [3]: https://www.sas.org.uk/waterquality2022/dry-spills/dumping-sewage-when-its-dry/
 [4]: http://porthtowanbeach.com/
-[sewerage]: /assets/images/manifesto/sewerage-800x689.jpg "Beatuful Crooklets Beach - without sewerage"
+[sewerage]: /assets/images/manifesto/sewerage-800x689.jpg "Beatiful Crooklets Beach - without sewerage"
