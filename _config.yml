@@ -264,7 +264,7 @@ defaults:
       author_profile: false
       header:
         image: /assets/images/page-banners/broken-britain-1600x586.png
-        og_image: /assets/images/og_images/logo-westminster-bolour-black-960x400.jpg
+        og_image: /assets/images/og_images/default-1080x1920.jpg
 
   # policies
   - scope:
@@ -282,7 +282,7 @@ defaults:
       header:
         overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
         overlay_filter: 0.3
-        og_image: /assets/images/og_images/logo-westminster-bolour-black-960x400.jpg
+        og_image: /assets/images/og_images/default-1080x1920.jpg
 
   # boilerplate
   - scope:
@@ -301,7 +301,7 @@ defaults:
       header:
         overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
         overlay_filter: 0.3
-        og_image: /assets/images/og_images/logo-westminster-bolour-black-960x400.jpg
+        og_image: /assets/images/og_images/default-1080x1920.jpg
 
   # _posts
   - scope:
@@ -321,4 +321,4 @@ defaults:
       header:
         overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
         overlay_filter: 0.3
-        og_image: /assets/images/og_images/logo-westminster-bolour-black-960x400.jpg
+        og_image: /assets/images/og_images/default-1080x1920.jpg
