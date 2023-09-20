@@ -1,7 +1,9 @@
 ---
-title: Securing North Cornwall Centers
+title: Securing North Cornwall Town Centers
 description: Position statement from Reform UK (North Cornwall) on town centres in Cornwall.
 keywords: parking, town centers
+header:
+  og_image: /assets/images/og_images/town1-1080x1920.jpg
 permalink: /policies/north-cornwall/town-centres
 ---
 # Supporting Cornwall Towns
