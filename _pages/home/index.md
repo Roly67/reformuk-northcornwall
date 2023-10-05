@@ -15,6 +15,6 @@ intro:
 ***
 
 <div style="text-align:center;">
-    <a href="/vote" class="btn btn--success btn--x-large">Vote in North Cornwall</a>&nbsp;
+    <a href="https://linktr.ee/reformuk_cornwall" class="btn btn--success btn--x-large" target="_blank">Your Cornwall Candidates</a>&nbsp;
     <a href="/policies" class="btn btn--info btn--x-large">Learn More</a>
 </div>

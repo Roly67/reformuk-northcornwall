@@ -284,6 +284,22 @@ defaults:
         overlay_filter: 0.3
         og_image: /assets/images/og_images/default-1080x1920.jpg
 
+  # resources
+  - scope:
+      path: "_pages/resources"
+      type: pages
+    values:
+      layout: single
+      toc: false
+      author_profile: false
+      show_date: false
+      read_time: false
+      share: false
+      header:
+        overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
+        overlay_filter: 0.3
+        og_image: /assets/images/og_images/default-1080x1920.jpg
+
   # boilerplate
   - scope:
       path: "_pages/boilerplate"
