@@ -5,8 +5,6 @@ main:
   #  url: /blog
   - title: Contact
     url: /contact
-  - title: Vote
-    url: /vote
 
 policies:
   - title: Reform UK National Policies
