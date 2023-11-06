@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rowland O'Connor"
 description              : "Reform UK is a political party that believes in true Conservative values. This is the website for the North Cornwall branch."
-url                      : "https://reformuk-northcornwall.com"
+url                      : "https://www.reformuk-northcornwall.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Roly67/reformuk-northcornwall"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
