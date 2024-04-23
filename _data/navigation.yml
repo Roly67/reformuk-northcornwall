@@ -3,8 +3,10 @@ main:
     url: /policies
   #- title: Blog
   #  url: /blog
-  - title: Contact
-    url: /contact
+  - title: Candidate
+    url: https://bit.ly/nc-leaf-fb1
+  - title: Sign up
+    url: https://bit.ly/3vhU5yX
 
 policies:
   - title: Reform UK National Policies
@@ -18,6 +20,8 @@ policies:
         url: /policies/north-cornwall/town-centres
       - title: Farming
         url: /policies/north-cornwall/farming
+      - title: Farming (Reform Proposals)
+        url: /policies/north-cornwall/farming-farmers-movement-cornwall
       - title: Fishing
         url: /policies/north-cornwall/fishing
       - title: Tourism

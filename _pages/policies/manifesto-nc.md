@@ -10,6 +10,7 @@ share: false
 * [Coastline Sewerage](/policies/north-cornwall/coast-sewerage)
 * [Town Centers](/policies/north-cornwall/town-centres)
 * [Farming](/policies/north-cornwall/farming)
+* [Farming Reform Proposals](/policies/north-cornwall/farming-farmers-movement-cornwall)
 * [Fishing](/policies/north-cornwall/fishing)
 * [Tourism](/policies/north-cornwall/tourism)
 * [Brexit](/policies/north-cornwall/brexit)
