@@ -1,5 +1,5 @@
 ---
-title: Reform Party UK (North Cornwall)
+title: Reform UK North Cornwall
 description: Reform UK for North Cornwall. Strong leadership to represent you and your family at local and national elections. Find out more today.
 keywords: reform uk
 date: 2023-06-29T12:00:00Z"

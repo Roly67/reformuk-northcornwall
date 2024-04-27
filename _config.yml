@@ -275,7 +275,7 @@ defaults:
       classes: wide
       sidebar:
         nav: "policies"
-      author_profile: true
+      author_profile: false
       show_date: false
       read_time: true
       share: true
@@ -300,6 +300,22 @@ defaults:
         overlay_filter: 0.3
         og_image: /assets/images/og_images/default-1080x1920.jpg
 
+  # events
+  - scope:
+      path: "_pages/events"
+      type: pages
+    values:
+      layout: single
+      toc: false
+      author_profile: false
+      show_date: false
+      read_time: false
+      share: false
+      header:
+        overlay_image: /assets/images/page-banners/cornwall-banner1-1600x600.jpg
+        overlay_filter: 0.3
+        og_image: /assets/images/og_images/default-1080x1920.jpg
+
   # boilerplate
   - scope:
       path: "_pages/boilerplate"
@@ -310,7 +326,7 @@ defaults:
       toc_label: "Contents"
       toc_icon: "cog"
       toc_sticky: true
-      author_profile: true
+      author_profile: false
       show_date: false
       read_time: false
       share: false
@@ -329,7 +345,7 @@ defaults:
       toc_label: "Contents"
       toc_icon: "cog"
       toc_sticky: true
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: false # true
       share: true
