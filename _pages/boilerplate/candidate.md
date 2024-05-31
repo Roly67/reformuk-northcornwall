@@ -15,7 +15,7 @@ toc: false
 
 ![Rowland O'Connor][Rowland O'Connor]{: .align-left}
 
-[&lt;-click for hi-res version][2]
+[&lt;-click for hi-res version][3]
 
 I am standing to be your MP for North Cornwall because I could see the 
 incompetence and the lack of leadership from our Parliamentary MPs during COVID. 
@@ -65,3 +65,4 @@ For more information, [view my leaflet online][1]
 [Rowland O'Connor]: /assets/images/ro-bio-photo-4-312x420.jpg "Rowland"
 [1]: https://bit.ly/nc-leaf-fb1
 [2]: /assets/images/ro-bio-photo-4-1280x950.jpg
+[3]: /assets/images/ro-bio-photo-4-2968x4000.jpg
