@@ -17,11 +17,34 @@ toc: false
 
 [&lt;-click for hi-res version][3]
 
+I am not a career politician and have no desire or incentive to become one.
+
+My political home has traditionally been the Conservative Party for many decades.
+In 2019, I voted Conservative and donated to the local election fighting fund.
+However, in the light of the shock and horror of what's happened since 2019, I 
+will never vote for or support the Conservative Party again. The Conservative Party
+has abandoned my values and beliefs as it shifts(is dragged by 'one nation' liberal Tory MPs)
+towards being 'Labour 2.0' and blatantly and obviously being complicit
+in forming the undemocratic uni party blob. The Conservative Party has failed
+its members, donors and our United Kingdom. As Labour 2.0, where is the opposition
+in Parliamentary process?
+
+My family and I have lived in North Cornwall since 2008. It is our home and it
+is worth fighting for.
+
+I am a graduate in engineering and have had a broad range of experience in 
+senior leadership positions in engineering, software, consulting, retail,
+investment banking and manufacturing. In 2010 I started a business here in
+North Cornwall which, in 2020, it was am immense privilege for our company to
+receive the Queens Award for innovation for creating the worlds first cloud
+based pre-fraud solution based on email address data.
+
 I am standing to be your MP for North Cornwall because I could see the 
 incompetence and the lack of leadership from our Parliamentary MPs during COVID. 
 The incompetence is still costing our children, communities and businesses
 dearly and it can never happen again.
-To take action, I decided to join Reform UK to offer a choice other than the legacy two party system.
+To take action, I decided to join Reform UK to offer a choice other than the
+legacy two party system.
 
 I believe in preserving our freedoms and having honest, intelligent MPs and
 councillors. We need to restore faith in our local and national politics.

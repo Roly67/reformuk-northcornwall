@@ -5,7 +5,7 @@ keywords: reform uk
 date: 2023-06-29T12:00:00Z"
 permalink: /
 intro:
-  - excerpt: 'Cornwall and Britain is broken. None of our public services work any more. In 2023, we have the highest taxes in 70 years and yet public services continue to get **worse** by the day.'
+  - excerpt: 'Cornwall and Britain is broken. None of our public services work any more. In 2024, we have the highest taxes in 70 years and yet public services continue to get **worse** by the day.'
 ---
 
 {% include feature_row id="intro" type="center" %}
