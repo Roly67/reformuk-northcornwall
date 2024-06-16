@@ -32,12 +32,19 @@ in Parliamentary process?
 My family and I have lived in North Cornwall since 2008. It is our home and it
 is worth fighting for.
 
+![With Ann Widdecombe][4]{: .align-right}
 I am a graduate in engineering and have had a broad range of experience in 
 senior leadership positions in engineering, software, consulting, retail,
 investment banking and manufacturing. In 2010 I started a business here in
 North Cornwall which, in 2020, it was am immense privilege for our company to
 receive the Queens Award for innovation for creating the worlds first cloud
 based pre-fraud solution based on email address data.
+
+![SCUBA][5]{: .align-left}
+My career has been diverse. As well as my achievements in the business world, I
+have been a SCUBA instructor working in the industry for many years. It was my
+priviledge to have taught BBC wildlife presenter [Iolo Williams][Iolo Williams]
+to dive and to cerify him as a PADI diver.
 
 I am standing to be your MP for North Cornwall because I could see the 
 incompetence and the lack of leadership from our Parliamentary MPs during COVID. 
@@ -89,3 +96,6 @@ For more information, [view my leaflet online][1]
 [1]: https://bit.ly/nc-leaf-fb1
 [2]: /assets/images/ro-bio-photo-4-1280x950.jpg
 [3]: /assets/images/ro-bio-photo-4-2968x4000.jpg
+[4]: /assets/images/ro-aw-400x225.jpg
+[5]: /assets/images/ro-scuba-1-300x400.jpg
+[Iolo Williams]: https://iolowilliams.co.uk/
