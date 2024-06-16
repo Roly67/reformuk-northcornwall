@@ -56,6 +56,7 @@ legacy two party system.
 I believe in preserving our freedoms and having honest, intelligent MPs and
 councillors. We need to restore faith in our local and national politics.
 
+![Meeting][6]{: .align-right}
 As a local businessman I have decided to stand up for the politically lost in 
 North Cornwall and try to save our country from ruin before it's too late.
 
@@ -92,6 +93,7 @@ and cutting red tape originally set out by the EU.
 
 For more information, [view my leaflet online][1]
 
+
 [Rowland O'Connor]: /assets/images/ro-bio-photo-4-312x420.jpg "Rowland"
 [1]: https://bit.ly/nc-leaf-fb1
 [2]: /assets/images/ro-bio-photo-4-1280x950.jpg
@@ -99,3 +101,4 @@ For more information, [view my leaflet online][1]
 [4]: /assets/images/ro-aw-400x225.jpg
 [5]: /assets/images/ro-scuba-1-300x400.jpg
 [Iolo Williams]: https://iolowilliams.co.uk/
+[6]: /assets/images/ro-meet-1-400x300.jpg
